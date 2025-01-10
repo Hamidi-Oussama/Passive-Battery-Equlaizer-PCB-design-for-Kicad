@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SOIC14_schematics")(type "KiCad")(uri "${KIPRJMOD}/SOIC14_schematics.kicad_sym")(options "")(descr ""))
+)
